@@ -1,0 +1,7 @@
+{
+  "$schema": "https://json.schemastore.org/chrome-manifest",
+  "manifest_version": 3,
+  "name": "ScreenShock",
+  "description": "Video recorder extension for chromium based browsers.",
+  "version": "1.0"
+}
