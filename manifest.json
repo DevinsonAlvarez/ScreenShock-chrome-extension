@@ -3,5 +3,10 @@
   "manifest_version": 3,
   "name": "ScreenShock",
   "description": "Video recorder extension for chromium based browsers.",
-  "version": "1.0"
+  "version": "1.0",
+  "permissions": ["scripting"],
+  "action": {
+    "default_title": "ScreenShock - Video Recorder",
+    "default_popup": "popup/popup.html"
+  }
 }
